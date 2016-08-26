@@ -17,3 +17,6 @@ github_username:  strangerloops
 
 # Build settings
 markdown: kramdown
+
+# disqus
+disqus_shortname: mhassin

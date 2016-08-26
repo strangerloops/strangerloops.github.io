@@ -5,7 +5,7 @@ date:   2016-08-25 23:24:44 -0400
 categories: nyc
 ---
 
-new york state's [open data portal][nysdata] contains the address of every business with an on-premises liquor license (i.e. somewhere you can buy and drink alcohol, i.e. a bar). [mapzen's valhalla][valhalla] is a free and open source routing engine. put them together and you can get walking directions from every bar in new york to your address. here's every bar to my apartment:
+new york state's [open data portal][nysdata] contains the address of every business with an on-premises liquor license (i.e. somewhere you can buy and drink alcohol, i.e. a bar). [mapzen's valhalla][valhalla] is a free and open source routing engine. put them together and you can get walking directions from every bar in new york to your address. here's every bar in brooklyn to my apartment:
 
 ![image-title-here](/assets/bklyn.png){:class="img-responsive"}
 

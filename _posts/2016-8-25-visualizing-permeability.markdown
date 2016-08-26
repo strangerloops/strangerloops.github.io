@@ -44,7 +44,7 @@ one more bonus one that nicely illustrates the difference in permeability - walk
 
 i spent too much time on this
 
-[here's the code i used to draw these maps][github] 
+[here's the code i used to draw these maps][github]  
 inspired by [this thing][er] and by [jane jacobs][jane]
 
 [^1]: there are actually two more, for four total! read the book if the suspense is killing you.

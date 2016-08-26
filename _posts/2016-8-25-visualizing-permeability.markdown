@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "the walk of shame, or: visualizing pedestrian permeability"
-date:   2016-08-04 22:13:44 -0400
+date:   2016-08-25 23:24:44 -0400
 categories: nyc
 ---
 

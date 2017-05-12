@@ -41,7 +41,7 @@ google has the user turn 10 times to get onto Graham Avenue (two-way, no bike la
 
 ![image-title-here](/assets/pbr/manhattan_pbr.png){:class="img-responsive"}
 
-google uses Grand Street (see above for why that's bad.). PBR avoids Grand Street (as well as Flushing Avenue, a two-way, four-lane truck route) using Meserole, Seigel, and Bogart (all one-way residential streets.)
+google uses Grand Street (see above for why that's bad). PBR avoids Grand Street (as well as Flushing Avenue, a two-way, four-lane truck route) using Meserole, Seigel, and Bogart (all one-way residential streets.)
 
 **crown heights to greenwood**
 

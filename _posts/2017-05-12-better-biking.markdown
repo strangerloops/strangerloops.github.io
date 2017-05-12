@@ -27,23 +27,29 @@ there are actually two OSRM instances running, with slightly different preferenc
 
 selected results that are maybe interesting:
 
+**bushwick to manhattan**
+
 ![image-title-here](/assets/pbr/to_manhattan_google.png){:class="img-responsive"}
 
 ![image-title-here](/assets/pbr/to_manhattan_pbr.png){:class="img-responsive"}
 
-bushwick to manhattan: google has the user turn 10 times to get onto Graham Avenue (two-way, no bike lane) and then turn onto Grand Street. while it has bike lanes, Grand is notoriously unsafe on account of heavy truck traffic and bike lanes being blocked. [Matthew von Ohlen][mvo] was killed by a driver on this street last summer. PBR continues on Evergreen to Moore Street (one-way, residential), uses the parallel Manhattan Avenue (one-way, bike lane) instead of Graham, and avoids Grand Street using Meserole/South 4th.
+google has the user turn 10 times to get onto Graham Avenue (two-way, no bike lane) and then turn onto Grand Street. while it has bike lanes, Grand is notoriously unsafe on account of heavy truck traffic and bike lanes being blocked. [Matthew von Ohlen][mvo] was killed by a driver on this street last summer. PBR continues on Evergreen to Moore Street (one-way, residential), uses the parallel Manhattan Avenue (one-way, bike lane) instead of Graham, and avoids Grand Street using Meserole/South 4th.
+
+**manhattan to north brooklyn**
 
 ![image-title-here](/assets/pbr/manhattan_google.png){:class="img-responsive"}
 
 ![image-title-here](/assets/pbr/manhattan_pbr.png){:class="img-responsive"}
 
-manhattan to north brooklyn: google uses Grand Street (see above for why that's bad.). PBR avoids Grand Street (as well as Flushing Avenue, a two-way, four-lane truck route) using Meserole, Seigel, and Bogart (all one-way residential streets.)
+google uses Grand Street (see above for why that's bad.). PBR avoids Grand Street (as well as Flushing Avenue, a two-way, four-lane truck route) using Meserole, Seigel, and Bogart (all one-way residential streets.)
+
+**crown heights to greenwood**
 
 ![image-title-here](/assets/pbr/greenwood_google.png){:class="img-responsive"}
 
 ![image-title-here](/assets/pbr/greenwood_pbr.png){:class="img-responsive"}
 
-crown heights to greenwood: google leaves the protected bike lane on Prospect Park West early to access the bike lane on 9th Street. PBR uses 15th Street instead, which, while not having a bike lane, is a quiet one-way residential street, and allows the route to avoid six blocks on 5th Avenue, a two-way with no bike lanes that’s frequently congested on account of being lined with storefronts.
+google leaves the protected bike lane on Prospect Park West early to access the bike lane on 9th Street. PBR uses 15th Street instead, which, while not having a bike lane, is a quiet one-way residential street, and allows the route to avoid six blocks on 5th Avenue, a two-way with no bike lanes that’s frequently congested on account of being lined with storefronts.
 
 i very much hope to add plenty of features, like profiles for chicago (this project's birthlplace), native iOS and android clients that can save addresses as favorites, bikeshare integration, and searching by place names rather than just addresses in the future. in the meantime, if you've read this far, i'd love to hear your thoughts and/or feedback on routes!
 
